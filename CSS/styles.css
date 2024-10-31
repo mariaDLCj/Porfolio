@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(28, 16, 32);
+    color: white;
+}
+
+.secundario{
+    background-color: rgb(60, 35, 69);
+    color: aliceblue;
+}
+
+.marginIzq{
+    margin-left: 20px;
+}
+
+.sombraBrillo{
+    box-shadow: 0px 12px 22px 4px rgba(13,5,18,0.55);
+}
+.sombraBoton{
+    box-shadow: 0px 12px 22px -9px rgba(13,5,18,0.55);
+}
